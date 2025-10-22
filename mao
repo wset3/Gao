@@ -7260,6 +7260,7 @@ local Icons = {
 	["lucide-x-square"] = "rbxassetid://10747384217",
 	["lucide-zoom-in"] = "rbxassetid://10747384552",
 	["lucide-zoom-out"] = "rbxassetid://10747384679",
+	["badge-check"] = "rbxassetid://108423720433092",
 	["lucide-cat"] = "rbxassetid://16935650691",
 	["lucide-message-circle-question"] = "rbxassetid://16970049192",
 	["lucide-webhook"] = "rbxassetid://17320556264",
